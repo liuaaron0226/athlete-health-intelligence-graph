@@ -1,0 +1,20 @@
+# Python / tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+*.log
+*.tmp
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Private data must never enter this public repo
+health/
+ahig-private/
+.scratch/
+COORDINATION.md

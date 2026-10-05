@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ahig"
+version = "0.2.1"
+description = "Athlete Health Intelligence Graph contract and validation core"
+requires-python = ">=3.11"
+dependencies = [
+  "jsonschema>=4.20",
+  "numpy>=2.0",
+  "scipy>=1.13",
+  "rdflib>=7.0",
+  "pyshacl>=0.30",
+  # W6：以 scikit-learn 重寫 ASReview elas_u4 排序組合（借邏輯、不併依賴）。
+  # 只餵 standard-screening lane 的第三排序鍵，不參與納入／排除判定。
+  "scikit-learn>=1.5",
+]
+
+[tool.setuptools.packages.find]
+include = ["ahig*"]

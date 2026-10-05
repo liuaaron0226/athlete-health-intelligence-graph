@@ -1,0 +1,249 @@
+{
+  "documentType": "p1-fulltext-method-and-cutoff",
+  "onTopic": [
+    "32576318",
+    "30925026",
+    "17075583",
+    "34623696",
+    "41093698",
+    "42144246",
+    "29596307",
+    "24092765",
+    "40510496",
+    "40909191",
+    "32781538",
+    "31794597",
+    "26883880",
+    "16469983",
+    "41754212"
+  ],
+  "rows": [
+    {
+      "id": "32576318",
+      "pmcid": null,
+      "inEPMC": "N",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 全文不在 Europe PMC——⚠️ 量法與截止日只能維持未知"
+    },
+    {
+      "id": "30925026",
+      "pmcid": null,
+      "inEPMC": "N",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 全文不在 Europe PMC——⚠️ 量法與截止日只能維持未知"
+    },
+    {
+      "id": "17075583",
+      "pmcid": null,
+      "inEPMC": "N",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 全文不在 Europe PMC——⚠️ 量法與截止日只能維持未知"
+    },
+    {
+      "id": "34623696",
+      "pmcid": null,
+      "inEPMC": "N",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 全文不在 Europe PMC——⚠️ 量法與截止日只能維持未知"
+    },
+    {
+      "id": "41093698",
+      "pmcid": null,
+      "inEPMC": "N",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 全文不在 Europe PMC——⚠️ 量法與截止日只能維持未知"
+    },
+    {
+      "id": "42144246",
+      "pmcid": "PMC13341414",
+      "inEPMC": "Y",
+      "isOpenAccess": "Y",
+      "cutoff": null,
+      "goodMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "badMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "outcome": "✅ 讀到全文"
+    },
+    {
+      "id": "29596307",
+      "pmcid": "PMC5946208",
+      "inEPMC": "Y",
+      "isOpenAccess": "Y",
+      "cutoff": null,
+      "goodMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "badMethod": [],
+      "outcome": "✅ 讀到全文"
+    },
+    {
+      "id": "24092765",
+      "pmcid": null,
+      "inEPMC": "N",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 全文不在 Europe PMC——⚠️ 量法與截止日只能維持未知"
+    },
+    {
+      "id": "40510496",
+      "pmcid": "PMC12158682",
+      "inEPMC": "Y",
+      "isOpenAccess": "Y",
+      "cutoff": "September 2024",
+      "goodMethod": [],
+      "badMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "outcome": "✅ 讀到全文"
+    },
+    {
+      "id": "40909191",
+      "pmcid": "PMC12406911",
+      "inEPMC": "Y",
+      "isOpenAccess": "Y",
+      "cutoff": "September 2021",
+      "goodMethod": [],
+      "badMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "outcome": "✅ 讀到全文"
+    },
+    {
+      "id": "32781538",
+      "pmcid": "PMC7468742",
+      "inEPMC": "Y",
+      "isOpenAccess": "Y",
+      "cutoff": "16 July 2018",
+      "goodMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "badMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "outcome": "✅ 讀到全文"
+    },
+    {
+      "id": "31794597",
+      "pmcid": "PMC7231581",
+      "inEPMC": "Y",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 取不到全文（HTTP 404）"
+    },
+    {
+      "id": "26883880",
+      "pmcid": "PMC4892287",
+      "inEPMC": "Y",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 取不到全文（HTTP 404）"
+    },
+    {
+      "id": "16469983",
+      "pmcid": null,
+      "inEPMC": "N",
+      "isOpenAccess": "N",
+      "cutoff": null,
+      "goodMethod": [],
+      "badMethod": [],
+      "outcome": "🚫 全文不在 Europe PMC——⚠️ 量法與截止日只能維持未知"
+    },
+    {
+      "id": "41754212",
+      "pmcid": "PMC12942925",
+      "inEPMC": "Y",
+      "isOpenAccess": "Y",
+      "cutoff": "September 2025",
+      "goodMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "badMethod": [
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕",
+        "〔公開版移除：文獻全文逐字摘錄，原文留在私有根〕"
+      ],
+      "outcome": "✅ 讀到全文"
+    }
+  ],
+  "reached": 6,
+  "cutoffRecovered": 4,
+  "requestCounters": {
+    "totalRequests": 9,
+    "perRequestedHost": {
+      "www.ebi.ac.uk": 9
+    },
+    "perFinalHost": {
+      "www.ebi.ac.uk": 9
+    },
+    "redirectHops": 0,
+    "blockedHosts": {},
+    "distinctUrls": 9,
+    "minIntervalSeconds": 1.0,
+    "note": "Per-execution counters. totalRequests counts every hop actually sent, including redirect hops, because each hop is a real outbound request. Requested and final hosts are kept apart: a redirector such as doi.org appears in the first and the publisher it lands on in the second, and blocking keys on the second. State does not survive the process, so the no-retry guarantee holds within one run only."
+  },
+  "contactEmail": "[redacted]",
+  "cachedTo": "$AHIG_PRIVATE_ROOT/p1-deficit-rate-muscle-retention/fulltext",
+  "privateRoot": {
+    "privateRootVerified": true,
+    "artifactDirectoriesSeen": 311,
+    "note": "Recorded so a truncated source shows up as a smaller number rather than passing silently. The preflight can tell a missing root from a present one; it cannot tell a complete root from a half-copied one."
+  },
+  "controlProbes": [
+    {
+      "probe": "十五份的中繼資料都查得到（必觸發之正對照）",
+      "passed": true,
+      "detail": "🚨 查到 15／15"
+    },
+    {
+      "probe": "量法詞在兩類例句上各自打得中、在無關句上不打（必觸發之反向）",
+      "passed": true,
+      "detail": "🚨 DXA 句=True；BIA 句=True；無關句未命中=True"
+    },
+    {
+      "probe": "讀到全文者都找得到量法詞（必觸發之正對照）",
+      "passed": false,
+      "detail": "🚨 讀到全文 6 份，其中出現「可承載」量法詞者 4 份；⚠️ 若差很多，代表那些回顧真的沒講量法"
+    },
+    {
+      "probe": "🚨 量法混用的情形會被看見（必觸發之反向）",
+      "passed": true,
+      "detail": "⚠️ 同時出現兩類量法詞者 3 份——🚨 protocol 說混用要「標明，🚫 不是丟掉」"
+    }
+  ],
+  "scriptLocation": "🚨 腳本不在 repo 內（.scratch 已依 ADR-0015 凍結），⚠️ 置於工作暫存區；全文已快取於私有根，下次 0 次請求。"
+}
